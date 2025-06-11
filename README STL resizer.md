@@ -48,12 +48,12 @@ pyinstaller stl_frame_resizer.spec
 The `.exe` will be in `dist/stl_frame_resizer/`.
 
 ## 📷 Screenshot
-*Include a screenshot of the app window here once ready*
+![2025-06-10 (2)](https://github.com/user-attachments/assets/3e947eb5-ef46-429b-bb37-9741780226ff)
 
 ## 📄 License
 
-MIT License recommended — but feel free to use [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) if preferred.
+Apache 2.0
 
 ## 💬 Feedback & Issues
 
-Open a GitHub issue or contact me via [your website or contact link].
+Open a GitHub issue or contact me via email sjames@csandra3d.com.
